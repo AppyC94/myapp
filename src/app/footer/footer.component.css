@@ -1,0 +1,11 @@
+.sticky {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 50%;
+  background-color: white;
+  color: black;
+  text-align: left;
+   opacity: 0.5;
+  filter: Alpha(opacity=50);
+} 
